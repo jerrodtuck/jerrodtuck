@@ -12,8 +12,6 @@ The unusual combination is what I'm betting on. There aren't many engineers who 
 
 **[Narya Command](https://naryacommand.com)** — An agent-orchestration platform for SCADA engineers, in pilot at two major E&P operators. Sole engineer. .NET / Blazor Hybrid, Anthropic API, MCP, Snowflake, Azure DevOps. Engineers compose multi-step workflows from a visual builder with typed steps and human-in-the-loop checkpoints, so agents can work against production SCADA systems safely.
 
-**[xscada.ai](https://xscada.ai)** — My software company. Where Narya and a customer-facing wells dashboard live.
-
 **[Cursor SDK Demo](https://cursor-sdk.com)** — Weekend project. Upload an engineering drawing (P&ID), get a live SVG operator screen. Built with the Cursor TypeScript SDK — vision extraction, multi-turn agent refinement, SSE streaming, Zod-validated structured output. Code: [`cursor-sdk-web`](https://github.com/jerrodtuck/cursor-sdk-web).
 
 ---
