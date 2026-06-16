@@ -10,7 +10,7 @@ The unusual combination is what I'm betting on. There aren't many engineers who 
 
 ### 🛠️ What I'm building right now
 
-**[Narya Command](https://naryacommand.com)** — An agent-orchestration platform for SCADA engineers, in pilot at two major E&P operators. Sole engineer. .NET / Blazor Hybrid, Anthropic API, MCP, Snowflake, Azure DevOps. Engineers compose multi-step workflows from a visual builder with typed steps and human-in-the-loop checkpoints, so agents can work against production SCADA systems safely.
+**[Narya Command](https://naryacommand.com)** — An agent-orchestration platform for SCADA engineers, in pilot at two major E&P operators. Sole engineer. .NET / Blazor Hybrid, Anthropic API, MCP, Snowflake, Azure DevOps. I love Cursor but also use Claude Code occasionaly. Engineers compose multi-step workflows from a visual builder with typed steps and human-in-the-loop checkpoints, so agents can work against production SCADA systems safely.
 
 **[Cursor SDK Demo](https://cursor-sdk.com)** — Weekend project. Upload an engineering drawing (P&ID), get a live SVG operator screen. Built with the Cursor TypeScript SDK — vision extraction, multi-turn agent refinement, SSE streaming, Zod-validated structured output. Code: [`cursor-sdk-web`](https://github.com/jerrodtuck/cursor-sdk-web).
 
@@ -27,7 +27,7 @@ I work in TypeScript, Python, C#, and Go. I lean on Anthropic's Claude API and M
 ### 📌 What's pinned below
 
 - **[cursor-sdk-web](https://github.com/jerrodtuck/cursor-sdk-web)** — Live demo of the Cursor TypeScript SDK applied to industrial drawings
-- **[CygnetServices](https://github.com/jerrodtuck/CygnetServices)** — Production .NET data extraction platform built at Targa Resources. Hand-coded Onion Architecture, pre-AI.
+- **[CygnetServices](https://github.com/jerrodtuck/CygnetServices)** — Production .NET data extraction platform currently in production at customer site (similar but without any leaks). Hand-coded Onion Architecture, pre-AI.
 - **[azure-devops-snowflake-ext](https://github.com/jerrodtuck/azure-devops-snowflake-ext)** — Azure DevOps Pipelines extension in Go
 
 ---
