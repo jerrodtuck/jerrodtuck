@@ -2,7 +2,7 @@
 
 I build and ship AI-native software end-to-end into real customer environments.
 
-I spent the last two decades in industrial SCADA (oil & gas, midstream, power) — designing systems that ran refineries, compressor stations, and 2.8-million-point telemetry networks. Now I build AI-native software for that world: agent orchestration platforms, MCP servers, RAG systems, and full-stack web apps that ship into locked-down, on-prem, regulated environments.
+I spent the last decade in industrial SCADA (oil & gas, midstream, power) — designing systems that ran refineries, compressor stations, and 2.8-million-point telemetry networks. Now I build AI-native software for that world: agent orchestration platforms, MCP servers, RAG systems, and full-stack web apps that ship into locked-down, on-prem, regulated environments. Prior to that I developed many applications for customers while working for Hewlett Packard and BMC Software to support enterprise monitoring in the largest datacenters in the world.
 
 The unusual combination is what I'm betting on. There aren't many engineers who can both write a production .NET 10 proxy and explain to a refinery operator why their PID loop is hunting. That intersection is where I work.
 
