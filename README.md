@@ -27,7 +27,6 @@ I work in TypeScript, Python, C#, and Go. I lean on Anthropic's Claude API and M
 ### 📌 What's pinned below
 
 - **[cursor-sdk-web](https://github.com/jerrodtuck/cursor-sdk-web)** — Live demo of the Cursor TypeScript SDK applied to industrial drawings
-- **[CygnetServices](https://github.com/jerrodtuck/CygnetServices)** — Production .NET data extraction platform currently in production at customer site (similar but without any leaks). Hand-coded Onion Architecture, pre-AI.
 - **[azure-devops-snowflake-ext](https://github.com/jerrodtuck/azure-devops-snowflake-ext)** — Azure DevOps Pipelines extension in Go
 
 ---
