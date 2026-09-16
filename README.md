@@ -31,6 +31,12 @@ I work in TypeScript, Python, C#, and Go. I lean on Anthropic's Claude API and M
 
 ---
 
+### 🍞 When I'm not coding
+
+I maintain **Carl** — a rye sourdough starter named after Dungeon Crawler Carl, born September 5, 2026. Every bake is chronicled at [carl-the-starter](https://github.com/jerrodtuck/carl-the-starter), complete with box+T signature scores and Lodge Double Dutch oven notes. Version control for bread.
+
+---
+
 ### 📫 Elsewhere
 
 - 🌐 [jerrodtuck.com](https://jerrodtuck.com)
